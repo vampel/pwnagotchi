@@ -5,6 +5,8 @@ Parte de.. fue crear mi propio pwnagotchi, una pequeño review:
 
 ![pwnagotchi](pics/runing.jpeg)
 
+[Video de Muestra](https://youtu.be/ksmZ_3eHcE0)
+
 #
 
 Ya tenia el raspberry pi zero w y solo compre la pantalla con carcasa:
