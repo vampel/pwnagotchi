@@ -46,6 +46,12 @@ La pantalla viene con case (muy buen material) incluye:
 
 #
 
+Mis Configuraciones:
+
+![config](pics/condif.jpeg)
+
+#
+
 **No creare una guia, ya hay muchas en internet mejor aqui te dejo una en español**
 
 [Video en español](https://youtu.be/MijGc9hMg5M)
